@@ -8,7 +8,7 @@ Simple solutions for some frequently met bioinformatics problems.
 
 > Methods for convertion between common bioinformatics data format.
 
-1. gtf -> GenePred
+#### gtf -> GenePred
 
 Download [gtfToGenePred](http://hgdownload.cse.ucsc.edu/admin/exe/linux.x86_64/gtfToGenePred) from UCSC
 
