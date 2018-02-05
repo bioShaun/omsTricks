@@ -48,3 +48,20 @@ import maya
 time_now = maya.now().datetime(to_timezone='Asia/Shanghai')
 
 ```
+
+### Bash
+
+#### Split string to list
+
+```bash
+
+#!/bin/bash
+  
+str="hello,world,i,like,you,babalala" 
+arr=(${str//,/ }) 
+for i in ${arr[@]} 
+do 
+    echo $i 
+done
+
+```
