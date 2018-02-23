@@ -51,6 +51,13 @@ time_now = maya.now().datetime(to_timezone='Asia/Shanghai')
 
 #### Convert string representation of list to list in Python
 
+```python
+
+import ast
+x = u'[ "A","B","C" , " D"]'
+x = ast.literal_eval(x)
+
+```
 
 ### Bash
 
