@@ -86,3 +86,10 @@ M-g g  ;; go-to line
 M-;    ;; comment
 
 ```
+
+#### Rectangle Commands
+
+```
+C-x r k ;; Kill a rectangle
+
+```
