@@ -75,3 +75,14 @@ do
 done
 
 ```
+
+### Emacs
+
+#### Useful shortcuts
+
+```
+M-%    ;; replace
+M-g g  ;; go-to line
+M-;    ;; comment
+
+```
