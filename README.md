@@ -33,6 +33,13 @@ gtfToGenePred \
 
 ```
 
+#### gff3 -> gtf
+
+```bash
+
+gffread input.gff3 -F -O -E -T -o- > output.gtf
+
+```
 
 ## Programming
 [[back to top](#contents)]
